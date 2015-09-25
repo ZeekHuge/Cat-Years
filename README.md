@@ -8,4 +8,4 @@ To test the app:
 2. Open your Xcode and from the options FILE > OPEN, browse to this repo's path and open it.
 3. Run the Code.
 
-The application was built on Xcode5 and was tested on iPhone 3.5 inch retina display emulator.
+The application was built on Xcode5 and was tested on iPhone 3.5 inch retina display simulator.
